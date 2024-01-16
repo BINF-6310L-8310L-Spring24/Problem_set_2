@@ -1,0 +1,88 @@
+names,films
+Luke Skywalker,A New Hope AND The Empire Strikes Back AND Return of the Jedi AND Revenge of the Sith AND The Force Awakens
+C-3PO,A New Hope AND The Empire Strikes Back AND Return of the Jedi AND The Phantom Menace AND Attack of the Clones AND Revenge of the Sith
+R2-D2,A New Hope AND The Empire Strikes Back AND Return of the Jedi AND The Phantom Menace AND Attack of the Clones AND Revenge of the Sith AND The Force Awakens
+Darth Vader,A New Hope AND The Empire Strikes Back AND Return of the Jedi AND Revenge of the Sith
+Leia Organa,A New Hope AND The Empire Strikes Back AND Return of the Jedi AND Revenge of the Sith AND The Force Awakens
+Owen Lars,A New Hope AND Attack of the Clones AND Revenge of the Sith
+Beru Whitesun Lars,A New Hope AND Attack of the Clones AND Revenge of the Sith
+R5-D4,A New Hope
+Biggs Darklighter,A New Hope
+Obi-Wan Kenobi,A New Hope AND The Empire Strikes Back AND Return of the Jedi AND The Phantom Menace AND Attack of the Clones AND Revenge of the Sith
+Anakin Skywalker,The Phantom Menace AND Attack of the Clones AND Revenge of the Sith
+Wilhuff Tarkin,A New Hope AND Revenge of the Sith
+Chewbacca,A New Hope AND The Empire Strikes Back AND Return of the Jedi AND Revenge of the Sith AND The Force Awakens
+Han Solo,A New Hope AND The Empire Strikes Back AND Return of the Jedi AND The Force Awakens
+Greedo,A New Hope
+Jabba Desilijic Tiure,A New Hope AND Return of the Jedi AND The Phantom Menace
+Wedge Antilles,A New Hope AND The Empire Strikes Back AND Return of the Jedi
+Jek Tono Porkins,A New Hope
+Yoda,The Empire Strikes Back AND Return of the Jedi AND The Phantom Menace AND Attack of the Clones AND Revenge of the Sith
+Palpatine,The Empire Strikes Back AND Return of the Jedi AND The Phantom Menace AND Attack of the Clones AND Revenge of the Sith
+Boba Fett,The Empire Strikes Back AND Return of the Jedi AND Attack of the Clones
+IG-88,The Empire Strikes Back
+Bossk,The Empire Strikes Back
+Lando Calrissian,The Empire Strikes Back AND Return of the Jedi
+Lobot,The Empire Strikes Back
+Ackbar,Return of the Jedi AND The Force Awakens
+Mon Mothma,Return of the Jedi
+Arvel Crynyd,Return of the Jedi
+Wicket Systri Warrick,Return of the Jedi
+Nien Nunb,Return of the Jedi
+Qui-Gon Jinn,The Phantom Menace
+Nute Gunray,The Phantom Menace AND Attack of the Clones AND Revenge of the Sith
+Finis Valorum,The Phantom Menace
+Padmé Amidala,The Phantom Menace AND Attack of the Clones AND Revenge of the Sith
+Jar Jar Binks,The Phantom Menace AND Attack of the Clones
+Roos Tarpals,The Phantom Menace
+Rugor Nass,The Phantom Menace
+Ric Olié,The Phantom Menace
+Watto,The Phantom Menace AND Attack of the Clones
+Sebulba,The Phantom Menace
+Quarsh Panaka,The Phantom Menace
+Shmi Skywalker,The Phantom Menace AND Attack of the Clones
+Darth Maul,The Phantom Menace
+Bib Fortuna,Return of the Jedi
+Ayla Secura,The Phantom Menace AND Attack of the Clones AND Revenge of the Sith
+Ratts Tyerel,The Phantom Menace
+Dud Bolt,The Phantom Menace
+Gasgano,The Phantom Menace
+Ben Quadinaros,The Phantom Menace
+Mace Windu,The Phantom Menace AND Attack of the Clones AND Revenge of the Sith
+Ki-Adi-Mundi,The Phantom Menace AND Attack of the Clones AND Revenge of the Sith
+Kit Fisto,The Phantom Menace AND Attack of the Clones AND Revenge of the Sith
+Eeth Koth,The Phantom Menace AND Revenge of the Sith
+Adi Gallia,The Phantom Menace AND Revenge of the Sith
+Saesee Tiin,The Phantom Menace AND Revenge of the Sith
+Yarael Poof,The Phantom Menace
+Plo Koon,The Phantom Menace AND Attack of the Clones AND Revenge of the Sith
+Mas Amedda,The Phantom Menace AND Attack of the Clones
+Gregar Typho,Attack of the Clones
+Cordé,Attack of the Clones
+Cliegg Lars,Attack of the Clones
+Poggle the Lesser,Attack of the Clones AND Revenge of the Sith
+Luminara Unduli,Attack of the Clones AND Revenge of the Sith
+Barriss Offee,Attack of the Clones
+Dormé,Attack of the Clones
+Dooku,Attack of the Clones AND Revenge of the Sith
+Bail Prestor Organa,Attack of the Clones AND Revenge of the Sith
+Jango Fett,Attack of the Clones
+Zam Wesell,Attack of the Clones
+Dexter Jettster,Attack of the Clones
+Lama Su,Attack of the Clones
+Taun We,Attack of the Clones
+Jocasta Nu,Attack of the Clones
+R4-P17,Attack of the Clones AND Revenge of the Sith
+Wat Tambor,Attack of the Clones
+San Hill,Attack of the Clones
+Shaak Ti,Attack of the Clones AND Revenge of the Sith
+Grievous,Revenge of the Sith
+Tarfful,Revenge of the Sith
+Raymus Antilles,A New Hope AND Revenge of the Sith
+Sly Moore,Attack of the Clones AND Revenge of the Sith
+Tion Medon,Revenge of the Sith
+Finn,The Force Awakens
+Rey,The Force Awakens
+Poe Dameron,The Force Awakens
+BB8,The Force Awakens
+Captain Phasma,The Force Awakens
